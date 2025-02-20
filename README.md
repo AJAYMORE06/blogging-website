@@ -1,22 +1,22 @@
-# ![Angular and Node Example App](logo.png)
+# ![Angular and Node Example App]
 
 # Getting started
 
 - Install MongoDB Community Edition ([instructions](https://docs.mongodb.com/manual/installation/#tutorials)) and run it by executing `mongod`
-- Make sure you have the [Angular CLI](https://github.com/angular/angular-cli#installation) installed globally. We use [Yarn](https://yarnpkg.com) to manage the dependencies, so we strongly recommend you to use it. you can install it from [Here](https://yarnpkg.com/en/docs/install).
+- Make sure you have the [Angular CLI](https://github.com/angular/angular-cli#installation) installed globally. I've used [Yarn](https://yarnpkg.com) to manage the dependencies, so I strongly recommend you to use it. you can install it from [Here](https://yarnpkg.com/en/docs/install).
 
 ## Steps to install App
 
 - If angular cli, Nodejs and mongodb is working correct then move to second step are else follow the Getting started procedure
-- Clone the repository using command git clone https://github.com/ajaymore6995/articles-management-app.git 
+- Clone the repository using command git clone https://github.com/AJAYMORE06/blogging-website.git 
  or download.
-- run cd articles-management-app
+- run cd blogging-website
 - run npm install
 
 - run npm start 
 
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/npmfinish.JPG)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/npmfinish.JPG)
 
 
 - once completed open any browser type url http://localhost:4200
@@ -88,20 +88,20 @@ Requests are authenticated using the `Authorization` header with a valid JWT. We
 
 # screens
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/homepage.png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/homepage.png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/details.png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/details.png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/editprofile.png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/editprofile.png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/addarticle.png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/addarticle.png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/myprofile.png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/myprofile.png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/topheader.png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/topheader.png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/Screenshot%20(62).png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/Screenshot%20(62).png)
 
-![Image of adduser](https://github.com/ajaymore6995/articles-management-app/blob/master/screens/Screenshot%20(63).png)
+![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/Screenshot%20(63).png)
 
 
