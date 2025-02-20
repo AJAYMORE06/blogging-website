@@ -1,4 +1,4 @@
-# ![Angular and Node Example App]
+# Angular and Node Example App
 
 # Getting started
 
@@ -16,7 +16,7 @@
 - run npm start 
 
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/npmfinish.JPG)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/npmfinish.JPG)
 
 
 - once completed open any browser type url http://localhost:4200
@@ -32,9 +32,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 **General functionality:**
 
 - Authenticate users via JWT (login/signup pages + logout button on settings page)
-- CRU* users (sign up & settings page - no deleting required)
+- CRUD users (sign up & settings page - no deleting required)
 - CRUD Articles
-- CR*D Comments on articles (no updating required)
+- CRUD Comments on articles (no updating required)
 - GET and display paginated lists of articles
 - Favorite articles
 - Follow other users
@@ -88,20 +88,20 @@ Requests are authenticated using the `Authorization` header with a valid JWT. We
 
 # screens
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/homepage.png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/homepage.png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/details.png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/details.png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/editprofile.png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/editprofile.png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/addarticle.png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/addarticle.png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/myprofile.png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/myprofile.png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/topheader.png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/topheader.png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/Screenshot%20(62).png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/Screenshot%20(62).png)
 
-![Image of adduser](https://github.com/ajaymore6995/blogging-website/blob/master/screens/Screenshot%20(63).png)
+![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/Screenshot%20(63).png)
 
 
