@@ -98,10 +98,6 @@ Requests are authenticated using the `Authorization` header with a valid JWT. We
 
 ![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/myprofile.png)
 
-![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/topheader.png)
-
-![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/Screenshot%20(62).png)
-
 ![Image of adduser](https://raw.githubusercontent.com/ajaymore06/blogging-website/master/screens/Screenshot%20(63).png)
 
 
